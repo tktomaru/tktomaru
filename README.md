@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on creating a web application.
 - 🌱 I’m currently learning Nuxt.
 
-The blog is ["https://tukutano.com/"](https://tukutano.com/)
+The blog is [https://tukutano.com/](https://tukutano.com/)
 
 The homepage is [https://tukutano.com/](https://profile.tukutano.com/)
 
