@@ -4,7 +4,7 @@
 
 The blog is [https://tukutano.com/](https://tukutano.com/)
 
-The homepage is [https://tukutano.com/](https://profile.tukutano.com/)
+The profile is [https://profile.tukutano.com/](https://profile.tukutano.com/)
 
 <!--
 **tktomaru/tktomaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
