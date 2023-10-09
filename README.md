@@ -2,9 +2,9 @@
 - 🔭 I’m currently working on creating a web application.
 - 🌱 I’m currently learning Nuxt.
 
-The blog is [https://tukutano.com/](https://tukutano.com/)
+The blog is [https://tukutano.jp/](https://tukutano.jp/)
 
-The profile is [https://profile.tukutano.com/](https://profile.tukutano.com/)
+The profile is [https://profile.tukutano.jp/](https://profile.tukutano.jp/)
 
 <!--
 **tktomaru/tktomaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
